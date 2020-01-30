@@ -1,8 +1,8 @@
 # Edge App for pose estimation, car color and type detection, as well as text detection.
 
-![Pose estimation](\output\POSE-output.png)
+![Pose estimation](output/POSE-output.png)
 
-![Car detection](\output\CAR_META-output.png)
+![Car detection](output/CAR_META-output.png)
 
 ![Text detection ](https://github.com/AloshkaD/intel_edge_detection_segmentation_pose/blob/master/output/TEXT-output.png)
 
